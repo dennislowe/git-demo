@@ -4,6 +4,9 @@ This is the first file in this repo.
 
 ## Website Contents
 
-Thing 1
-Thing 2
-Thing 3
+Here are the files in the web site.
+
+1.  index.html
+2.  Thing 2
+3.  Thing 3
+
